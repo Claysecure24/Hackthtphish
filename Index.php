@@ -1,6 +1,6 @@
   <?php
 include 'ip.php';
-header(' location: index.index.html ');
+header(' location: index.html ');
  
 exit
 ?>
